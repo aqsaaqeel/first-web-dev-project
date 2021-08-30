@@ -1,3 +1,6 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
 .navigation-bar {
     background : #26C281;
     color : white;
