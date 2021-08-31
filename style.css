@@ -4,14 +4,24 @@ body {
 .navigation-bar {
     background : #26C281;
     color :white;
-    padding : 1rm 0rm;
-    border-right-style : 1 rm;
+    padding : 0.5rem;
+    border-bottom-right-radius : 1rem;
 
+}
+.link-active{
+    color : white;
+    text-decoration: none;
 }
 ul {
     display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+    list-style: none;
+    text-align : right;
+}
+.inline-list-element{
+    display : inline;
+    padding : 0rem 0.5rem;
 }
