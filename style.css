@@ -72,6 +72,13 @@ ul {
 .grey-article{
     background: lightgrey;
     text-align:center;
+    padding:1rem;
+    border-radius: 1rem;;
+}
+.white-article{
+    text-align:center;
+    padding:1rem;
+    border-radius: 1rem;;
 }
 .primary-colour-link{
     background:#26C281;
@@ -84,4 +91,7 @@ ul {
     border-radius: 2rem;
     border: 1px solid;
     padding: 0.5rem;
+}
+.projects-list h3{
+    color:#26C281;
 }
