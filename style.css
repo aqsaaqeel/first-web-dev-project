@@ -35,7 +35,7 @@ ul {
 }
 .hero-img{
     display : block;
-    max-width: 2000px;
+    max-width: 1000px;
     margin:auto;
     padding :1rem;
 }
@@ -46,4 +46,20 @@ ul {
     font-size: xx-large;
     color: #6B7280;
 
+}
+
+.section{
+    text-align: center;
+    padding : 1rem;
+}
+
+.gray-bg{
+    background: #26C281;
+    color:white;
+    text-align: center;
+    padding :1rem;
+    border-top-right-radius: 1rem;
+}
+.gray-bg ul{
+    text-align: center;
 }
