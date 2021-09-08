@@ -69,11 +69,19 @@ ul {
     color:white;
     padding: 0.5rem;
 }
-.grey-list-project{
+.grey-article{
     background: lightgrey;
     text-align:center;
-    margin : float;
 }
 .primary-colour-link{
-    background:#26C281
+    background:#26C281;
+    color: white;
+    border-radius: 2rem;
+    padding: 0.5rem;
+}
+.secondary-colour-link{
+    color: #26C281;
+    border-radius: 2rem;
+    border: 1px solid;
+    padding: 0.5rem;
 }
