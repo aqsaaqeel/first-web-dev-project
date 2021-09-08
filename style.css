@@ -69,3 +69,7 @@ ul {
     color:white;
     padding: 0.5rem;
 }
+.grey-project{
+    background: lightgrey;
+    text-align:center;
+}
