@@ -78,19 +78,21 @@ ul {
 .white-article{
     text-align:center;
     padding:1rem;
-    border-radius: 1rem;;
+    border-radius: 1rem;
 }
 .primary-colour-link{
     background:#26C281;
     color: white;
     border-radius: 2rem;
-    padding: 0.5rem;
+    padding: 0.6rem 1.2rem;
+    text-decoration: none;
 }
 .secondary-colour-link{
     color: #26C281;
     border-radius: 2rem;
     border: 1px solid;
-    padding: 0.5rem;
+    padding: 0.6rem 1.2rem;
+    text-decoration: none;
 }
 .third-heading{
     color:#6B7280;
