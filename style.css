@@ -63,3 +63,9 @@ ul {
 .gray-bg ul{
     text-align: center;
 }
+.primary-link{
+    background-color: #26C281;
+    border-radius: 0.5rem;
+    color:white;
+    padding: 0.5rem;
+}
