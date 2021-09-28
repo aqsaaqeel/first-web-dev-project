@@ -1,0 +1,17 @@
+#blog {
+    font-family: 'Inconsolata', monospace;
+    text-align: justify;
+    max-width: 900px;
+    width: 100%;
+    margin: auto;
+}
+#blog-mainheading {
+    color: #000000;
+}
+#add-color {
+    color : #26C281;
+}
+#blog-subheading {
+    color : #000000;
+    font-family: 'Inconsolata', monospace;
+}
