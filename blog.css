@@ -1,5 +1,7 @@
 #blog {
     font-family: 'Inconsolata', monospace;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Pacifico';
     text-align: justify;
     max-width: 900px;
     width: 100%;
@@ -14,4 +16,6 @@
 #blog-subheading {
     color : #000000;
     font-family: 'Inconsolata', monospace;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Pacifico';
 }
