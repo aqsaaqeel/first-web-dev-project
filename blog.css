@@ -19,3 +19,14 @@
     font-family: 'Open Sans', sans-serif;
     font-family: 'Pacifico';
 }
+#blog-paragraph {
+    font-size: 1rem;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Pacifico';
+    color : black;
+}
+#space {
+    background-color: white;
+    padding : 0.5rem;
+}
